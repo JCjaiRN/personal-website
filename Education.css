@@ -94,7 +94,7 @@ body{
     position:absolute;
     content:'';
     width:4px;
-    height:calc(100% - 300px);
+    height:calc(100% - 100px);
     background: #6F67FF;
     left:14px;
     top:5px;
